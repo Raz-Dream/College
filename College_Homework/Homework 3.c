@@ -51,4 +51,4 @@ int main() {
     cetakOutput(bilangan, faktor, jumlahFaktor);
     
     return 0;
-}
+} 

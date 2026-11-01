@@ -22,18 +22,17 @@ int main() {
     int i;
     int ujung;
     
+    
     int total[10] = {0}; 
 
     printf("Masukkan angka prima\n");
     scanf("%d", &batas);
    
-
     for (i = 2; i <= batas; i++) {
         if (prima(i)) {
            
             ujung = i % 10;
             
-           
             total[ujung]++;
         }
     }

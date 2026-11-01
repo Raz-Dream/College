@@ -1,0 +1,15 @@
+*.exe
+output/
+
+# Hanya upload College_Homework, abaikan sisanya
+/Belajar.py
+/Belajarpertama.c
+/Cupang.c
+/Dasprog_0.C
+/Kelipatan35.c
+/P1F2.c
+/S
+/Timeconversion.c
+/Latihan Praktikum 1/
+/Latihan Praktikum 2/
+/Latihan Praktikum 3/

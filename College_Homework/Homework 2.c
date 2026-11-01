@@ -76,4 +76,4 @@ int main() {
 
     tampilPemenang(skorPemain, skorKomputer);
     return 0;
-}
+} 
